@@ -1,1 +1,1 @@
-# snomed-ct-data-bom
+# snomed-ct-loinc-data-bom
